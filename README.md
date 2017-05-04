@@ -10,13 +10,11 @@ Q1. Basic Image Manipulation<br />
 <br />a. Mirroring, Resizing and Compositing 
 1. Dog Mirroring
 2. Dog Resizing
-3. Image Compositing
-<br />
+3. Image Compositing<br />
 <br />b. Color Space Transformation
 1. CMY(K) Color Space
 2. HSL Color Space
-3. Sepia Filter
-<br />
+3. Sepia Filter<br />
 <br />c. Layer Blending Mode Implementation - Multiply Blending
 <br />
 <br />Q2. Histogram Equalization
