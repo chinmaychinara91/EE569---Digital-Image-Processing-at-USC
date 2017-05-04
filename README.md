@@ -9,7 +9,7 @@ The gist of the contents in each of the folders are as under:
 Q1. Basic Image Manipulation
 <br />
 <br />a. Mirroring, Resizing and Compositing 
-1. Dog Mirroring
-2. Dog Resizing
-3. Image Compositing
+* Dog Mirroring
+* Dog Resizing
+* Image Compositing
 <br />b. Color Space Transformation
