@@ -33,7 +33,7 @@ a. Histogram Enhancement for Grayscale Images
 
 1. Transfer Function and Cumulative Probability Based Histogram Equalization for bright and dark contrast images
 
-2. Transfer Function and Cumulative Probability Based Histogram Equalization for mix contrast images&lt;br /&gt;
+2. Transfer Function and Cumulative Probability Based Histogram Equalization for mix contrast images
 
 b. Histogram Equalization for Color Images
 
