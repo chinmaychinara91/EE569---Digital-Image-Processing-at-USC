@@ -7,7 +7,7 @@ The gist of the contents in each of the folders are as under:
 **Homework-1:**
 =
 
-Q1. Basic Image Manipulation
+**Q1. Basic Image Manipulation**
 
 a. Mirroring, Resizing and Compositing 
 
@@ -27,7 +27,7 @@ b. Color Space Transformation
 
 c. Layer Blending Mode Implementation - Multiply Blending
 
-Q2. Histogram Equalization
+**Q2. Histogram Equalization**
 
 a. Histogram Enhancement for Grayscale Images
 
@@ -39,7 +39,7 @@ b. Histogram Equalization for Color Images
 
 c. Histogram Transform
 
-Q3. Noise Removal
+**Q3. Noise Removal**
 
 a. Mix Noise in Color Image
 
