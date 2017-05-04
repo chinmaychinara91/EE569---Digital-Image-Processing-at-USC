@@ -6,10 +6,10 @@ The gist of the contents in each of the folders are as under:
 
 **Homework-1:**
 =
-Q1. Basic Image Manipulation
-    > Mirroring, Resizing and Compositing
-        > Dog Mirroring
-        > Dog Resizing
-        > Image Compositing
+Q1. Basic Image Manipulation <br />
+     a. Mirroring, Resizing and Compositing <br />
+        1. Dog Mirroring <br />
+        2. Dog Resizing <br />
+        3. Image Compositing <br />
         
     b. Color Space Transformation
