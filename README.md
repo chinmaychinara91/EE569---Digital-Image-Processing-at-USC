@@ -7,11 +7,11 @@ The gist of the contents in each of the folders are as under:
 **Homework-1:**
 =
 Q1. Basic Image Manipulation<br />
-a. Mirroring, Resizing and Compositing 
+<br />a. Mirroring, Resizing and Compositing 
 1. Dog Mirroring
 2. Dog Resizing
 3. Image Compositing<br />
-<br />b. Color Space Transformation
+b. Color Space Transformation
 1. CMY(K) Color Space
 2. HSL Color Space
 3. Sepia Filter<br />
