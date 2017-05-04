@@ -50,42 +50,26 @@ c. Block Matching and 3-D (BM3D) transform filter
 **Homework-2**
 =
 
-**Q1. Basic Image Manipulation**
+**Q1. Geometric Image Modification**
 
-a. Mirroring, Resizing and Compositing 
+a. Geometrical Warping 
 
-1. Dog Mirroring
+b. Puzzle Matching
 
-2. Dog Resizing
+c. Homograpic Transformation and Image Overlay
 
-3. Image Compositing
+**Q2. Digital Halftoning**
 
-b. Color Space Transformation
+a. Dithering Matrix
 
-1. CMY(K) Color Space
+b. Error Diffusion - FLoyd Steinberg, JJN, Stucki
 
-2. HSL Color Space
+**Q3. Morpholigical Processing**
 
-3. Sepia Filter
+a. Shrinking
 
-c. Layer Blending Mode Implementation - Multiply Blending
+b. Thinning
 
-**Q2. Histogram Equalization**
+c. Skeletonization
 
-a. Histogram Enhancement for Grayscale Images
-
-1. Transfer Function and Cumulative Probability Based Histogram Equalization for bright and dark contrast images
-
-2. Transfer Function and Cumulative Probability Based Histogram Equalization for mix contrast images&lt;br /&gt;
-
-b. Histogram Equalization for Color Images
-
-c. Histogram Transform
-
-**Q3. Noise Removal**
-
-a. Mix Noise in Color Image
-
-b. Non-Local Means (NLM) filter
-
-c. Block Matching and 3-D (BM3D) transform filter
+d. Counting game
