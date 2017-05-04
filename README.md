@@ -15,18 +15,14 @@ Q1. Basic Image Manipulation<br />
 1. CMY(K) Color Space
 2. HSL Color Space
 3. Sepia Filter<br />
-<br />c. Layer Blending Mode Implementation - Multiply Blending
-<br />
-<br />Q2. Histogram Equalization
-<br />a. Histogram Enhancement for Grayscale Images
+<br />c. Layer Blending Mode Implementation - Multiply Blending<br />
+<br />Q2. Histogram Equalization<br />
+<br />a. Histogram Enhancement for Grayscale Images<br />
 1. Transfer Function and Cumulative Probability Based Histogram Equalization for bright and dark contrast images
-2. Transfer Function and Cumulative Probability Based Histogram Equalization for mix contrast images
-<br />b. Histogram Equalization for Color Images
-<br />c. Histogram Transform
-<br />Q3. Noise Removal
-<br />
-<br />a. Mix Noise in Color Image
-<br />
-<br />b. Non-Local Means (NLM) filter
-<br />
+2. Transfer Function and Cumulative Probability Based Histogram Equalization for mix contrast images<br />
+<br />b. Histogram Equalization for Color Images<br />
+<br />c. Histogram Transform<br />
+<br />Q3. Noise Removal<br />
+<br />a. Mix Noise in Color Image<br />
+<br />b. Non-Local Means (NLM) filter<br />
 <br />c. Block Matching and 3-D (BM3D) transform filter
