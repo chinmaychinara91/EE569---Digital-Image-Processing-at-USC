@@ -4,9 +4,4 @@ This contains all my assignments and projects done as a part of EE569 coursework
 
 The contents of each of the folders are as under:
 
-=<b> Homework-1:</b>
-
-
-
-
-
+**Homework-1:**
