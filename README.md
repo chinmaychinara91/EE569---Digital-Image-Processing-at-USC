@@ -5,7 +5,7 @@ This contains all my assignments and projects done as a part of EE569 coursework
 The gist of the contents in each of the folders are as under:
 
 **Homework-1**
--
+=
 
 **Q1. Basic Image Manipulation**
 
@@ -73,3 +73,39 @@ b. Thinning
 c. Skeletonization
 
 d. Counting game
+
+**Homework-3**
+=
+
+**Q1. Texture Analysis and Segmentation**
+
+a. Texture Classification 
+
+b. Texture Segmentation
+
+c. Further Improvement
+
+**Q2. Edge and Contour Detection**
+
+a. Canny Edge Detector
+
+b. Contour Detection with Structured Edge
+
+c. Performance Evaluation
+
+**Homework-4 (Final Project)**
+=
+
+**Q1. CNN Training and Its Application to the CIFAR-10 Dataset**
+
+a. CNN Architechture and Training 
+
+b. Application of the CNN to CIFAR-10 Dataset
+
+c. K-means with CNNs
+
+**Q2. Capability and Limitation of Convolutional Neural Networks**
+
+a. Improving Your Network for CIFAR-10 Dataset
+
+b. State-of-the-Art CIFAR-10 Implementation
