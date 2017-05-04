@@ -2,8 +2,14 @@
 
 This contains all my assignments and projects done as a part of EE569 coursework taught by Prof. C.C. Jay Kuo
 
-The contents of each of the folders are as under:
+The gist of the contents in each of the folders are as under:
 
 **Homework-1:**
 =
-This
+Q1. Basic Image Manipulation
+    a. Mirroring, Resizing and Compositing
+        1. Dog Mirroring
+        2. Dog Resizing
+        3. Image Compositing
+        
+    b. Color Space Transformation
