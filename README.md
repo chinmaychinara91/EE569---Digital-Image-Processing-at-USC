@@ -1,4 +1,4 @@
-# USC-Course-EE569---Digital-Image-Processing
+# USC-EE569-Digital-Image-Processing-Spring-2017
 
 This contains all my assignments and projects done as a part of EE569 coursework taught by Prof. C.C. Jay Kuo
 
