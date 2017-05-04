@@ -7,7 +7,7 @@ The gist of the contents in each of the folders are as under:
 **Homework-1:**
 =
 Q1. Basic Image Manipulation
-=
+<br />
 <br />a. Mirroring, Resizing and Compositing 
 1. Dog Mirroring
 2. Dog Resizing
