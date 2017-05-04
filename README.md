@@ -5,7 +5,7 @@ This contains all my assignments and projects done as a part of EE569 coursework
 The gist of the contents in each of the folders are as under:
 
 **Homework-1**
-=
+-
 
 **Q1. Basic Image Manipulation**
 
