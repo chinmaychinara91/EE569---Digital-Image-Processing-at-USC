@@ -15,9 +15,10 @@ STEPS TO DEBUG CODE:
 
 4. To run type the following in command prompt after doing a successful compilation in step-3:
 
-<program_name> <input_image>.raw <output_image>.raw <ImgWidth> <ImgHeight> <BytesPerPixel>
+"<program_name> <input_image>.raw <output_image>.raw <ImgWidth> <ImgHeight> <BytesPerPixel>"
 
 where;
+
 program_name: 	the name of the .exe file generated
 
 input_image: 	the name of the .raw file along with path to be taken as input for processing
